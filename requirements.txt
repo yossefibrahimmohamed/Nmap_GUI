@@ -1,0 +1,2 @@
+python-nmap==0.7.1
+customtkinter==5.2.2
