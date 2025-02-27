@@ -1,5 +1,5 @@
 ## Welcome To Nmap GUI BY Yossef Ibrahim
 ## screenshot ...
 
-<img src="D:\My Projects\Pycharm\Nmap_GUI\Screenshot 2024-07-30 202314.png" width="300">
+<img width="294" alt="Image" src="https://github.com/user-attachments/assets/41db4898-ecde-4916-b2dc-3647f9e40afd" />
 
